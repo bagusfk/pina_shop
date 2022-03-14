@@ -1,0 +1,38 @@
+.bg-dark {
+    background-color: #007bff!important;
+}
+
+.card{
+    border: 2px solid #007bff;
+    border-radius: 5;
+}
+
+.form-inline{
+    border: 2px solid#007bff;
+    border-radius: 5;
+    padding: 10px;
+    margin:10px 0;
+}
+
+.link-img-produk{
+    padding:10px;
+}
+
+.card-title a {
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+}
+.card-title a:hover {
+    color: ##007bff;
+    text-decoration: none;
+}
+.list-group a{
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+}
+.list-group a:hover{
+    color: #007bff;
+    text-decoration: none;
+}
